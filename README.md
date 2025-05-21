@@ -25,7 +25,7 @@ class Attributes extends Harin {
                 deploy: ['Hosting'],
                 package: ['NPM'],
             },
-            IDEs: ['Sublime Text', 'Replit']
+            IDEs: ['VSCODE', 'Replit']
         });
 
         this.life = () => ({
@@ -36,10 +36,10 @@ class Attributes extends Harin {
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
-            hobbies: ['Chơi game', 'Nghe nhạc', 'Xem phim'],
+            hobbies: ['Chơi game', 'Nghe nhạc', 'Xem phim', 'Code],
             operatingSystem: ['Linux, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://phungtuanhai.site/'
+            webSite: 'https://harin.onrender.com'
         });
 
         this.contributes = () => ({
