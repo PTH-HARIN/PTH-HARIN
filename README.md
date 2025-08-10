@@ -36,7 +36,7 @@ class Attributes extends Harin {
             location: ['localhost, vietnamese'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
-            hobbies: ['Chơi game', 'Nghe nhạc', 'Xem phim', 'Code],
+            hobbies: ['Chơi game', 'Nghe nhạc', 'Xem phim', 'Code'],
             operatingSystem: ['Linux, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
             webSite: 'https://harin.onrender.com'
