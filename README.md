@@ -32,14 +32,14 @@ class Attributes extends Harin {
             name: ['Phùng Tuấn Hải'],
             username: ['PTH', 'Harin'],
             age: 'xx',
-            address: ['127.0.0.1'],
-            location: ['localhost, vietnamese'],
+            address: ['116.98.0.71'],
+            location: ['Lâm Đồng, Việt Nam'],
             occupation: ['Newbie Study Code'],
             careerObjective: ['Trở thành một lập trình viên full-stack (FE)'],
             hobbies: ['Chơi game', 'Nghe nhạc', 'Xem phim', 'Code'],
             operatingSystem: ['Linux, VPS'],
             spokenLanguages: ['Vietnamese', 'English'],
-            webSite: 'https://harin.onrender.com'
+            webSite: 'https://profile-pth.onrender.com'
         });
 
         this.contributes = () => ({
